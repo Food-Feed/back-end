@@ -1,0 +1,2 @@
+class WalkthroughsController < ApplicationController
+end
